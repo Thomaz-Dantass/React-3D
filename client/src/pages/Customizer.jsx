@@ -48,7 +48,7 @@ const Customizer = () => {
   }
 
   const handleSubmit = async (type) => {
-    if(!prompt) return alert("Please enter a prompt");
+    if(!prompt) return alert("Por favor insira uma prompt");
 
     try {
       setGeneratingImg(true);
