@@ -26,7 +26,7 @@ Passo 2: Executar o servidor
 - Uma vez dentro da pasta "server", execute o comando "npm start" no terminal.
 - Aguarde até que o servidor seja iniciado com sucesso. Você deverá ver mensagens indicando que o servidor está sendo executado e pronto para receber solicitações.
 
-Passo 3: 
+Passo 3: Executar o cliente
 - Abra um novo terminal ou prompt de comando, se você ainda não tiver um aberto.
 - Navegue até a pasta "client" do projeto usando o comando cd 
 - Dentro da pasta "client", execute o comando "npm run dev" no terminal.
